@@ -19,3 +19,11 @@
 git init
 cd social-profile-card
 vs code editor
+
+
+### **5. Share Your Project**
+- Share your **GitHub repo link** on LinkedIn, Twitter, and other platforms.
+- Add it to your resume or portfolio website.
+
+Let me know if you need help deploying or customizing your project! 🚀
+
