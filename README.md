@@ -9,7 +9,7 @@
 - Easy customization
 
 ## 📷 Preview
-![Preview](screenshot.png)
+![Preview](Screenshot 2025-03-15 124626.png)
 
 ## 🔗 Live Demo
 [Click here](https://social-profile-portfolio.netlify.app/)
