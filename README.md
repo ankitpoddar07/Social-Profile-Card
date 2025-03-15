@@ -9,7 +9,7 @@
 - Easy customization
 
 ## 📷 Preview
-![Preview](Screenshot 2025-03-15 124626.png)
+![Preview]((https://github.com/ankitpoddar07/Social-Profile-Card/blob/main/Screenshot%202025-03-15%20124626.png))
 
 ## 🔗 Live Demo
 [Click here](https://social-profile-portfolio.netlify.app/)
