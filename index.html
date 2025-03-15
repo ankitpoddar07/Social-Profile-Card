@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Social Profile Card</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="card" data-aos="zoom-in">
+    <div class="header">SAMY</div>
+    <img src="./images/profile.jpg" alt="Profile" class="profile" data-aos="fade-left" data-aos-delay="100">
+    <div class="info" data-aos="fade-right" data-aos-delay="100">
+        <h2>ANKIT KUMAR</h2>
+        <p>Python Developer</p>
+        <div class="stats">
+            <div>
+                <span>7.7M</span>
+                <p>Followers</p>
+            </div>
+            <div>
+                <span>1</span>
+                <p>Following</p>
+            </div>
+        </div>
+        <a href="https://www.instagram.com/ankitpoddar__/"><button class="follow-btn">Follow</button></a>
+        <p class="desc">"Talk is cheap. Show me the code."</p>
+
+        <!-- Move social icons inside .info -->
+        <div class="social-icons">
+            <a href="https://www.instagram.com/ankitpoddar__/"><div class="icon" id="icon1"><box-icon type='logo' name='instagram'></box-icon></div></a>
+            <a href="https://x.com/ankitpo47153377"><div class="icon" id="icon2"><box-icon type='logo' name='twitter'></box-icon></div></a>
+            <a href="https://www.linkedin.com/in/ankit-kumar-271a3730b/"><div class="icon" id="icon3"><box-icon type='logo' name='whatsapp-square'></box-icon></div></a>
+            <a href="https://github.com/ankitpoddar07"><div class="icon" id="icon4"><box-icon type='logo' name='facebook-circle'></box-icon></div></a>
+        </div>
+    </div>
+</div>
+
+
+    <script src="https://unpkg.com/boxicons@2.1.3/dist/boxicons.js"></script>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+      AOS.init();
+    </script>
+</body>
+</html>
